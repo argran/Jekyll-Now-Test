@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nathan Davenport
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Web design, skateboaring, music, video editing
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nathandaven@gmail.com](mailto:nathandaven@gmail.com)
